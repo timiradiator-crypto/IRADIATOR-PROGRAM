@@ -1,0 +1,14 @@
+# Arduino / IDE build output
+*.hex
+*.elf
+*.bin
+*.eep
+build/
+.build/
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
